@@ -9,4 +9,9 @@ So do it?
 Luck to me.
 
 1. I am the first change.
+<<<<<<< HEAD
 2. Can I change NEW1?
+=======
+2. New branch test.
+3. New2 is here.
+>>>>>>> refs/remotes/origin/new2
